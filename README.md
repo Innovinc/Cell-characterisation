@@ -138,3 +138,5 @@ static void calcSoc(float ocv_V,float chargeRemain_Ah);
 	 return lookupSOCByOCV(ocv,&defaultOcvTable,defaultTableSize,&defaultSocTable);
 
  }
+
+presently this file has 23 bugs. 
