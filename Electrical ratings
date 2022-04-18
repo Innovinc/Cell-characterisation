@@ -1,0 +1,7 @@
+Vcc- SUpply voltage - 5V
+Idisch - Discharge current- 0-1.5A
+Ichg-  Charge current -  0-1A
+T- Operating Temp- 0-70 degree cel
+Res- ADC Resolution-  14 bits
+Fscl - Max I2C Clock-  400 khz
+Dchg_in -  Discharge input - 0-3.3V
